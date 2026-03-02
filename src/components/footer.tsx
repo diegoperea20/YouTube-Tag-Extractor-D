@@ -29,7 +29,7 @@ export function Footer() {
 
           <div className="flex space-x-4">
              <Link
-              href="https://github.com/diegoperea20/"
+              href="https://github.com/diegoperea20/YouTube-Tag-Extractor-D"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
               target="_blank"
               rel="noopener noreferrer"

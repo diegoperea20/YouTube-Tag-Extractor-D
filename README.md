@@ -30,6 +30,14 @@ A modern web application that allows you to extract tags from YouTube videos qui
 
 ## 🚀 Getting Started
 
+
+Create a .env file in the root directory with your YouTube API key:
+
+```
+YOUTUBE_API_KEY=your_api_key_here
+```
+**Enable the YouTube Data API v3** in your Google Cloud Console. And create an API key.
+
 ### Prerequisites
 
 - Node.js 18+ installed

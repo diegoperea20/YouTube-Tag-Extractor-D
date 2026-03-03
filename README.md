@@ -38,6 +38,10 @@ YOUTUBE_API_KEY=your_api_key_here
 ```
 **Enable the YouTube Data API v3** in your Google Cloud Console. And create an API key.
 
+----
+
+Without use API key use the web scraping method in the branch `normal`. [normal branch](https://github.com/diegoperea20/YouTube-Tag-Extractor-D/tree/normal)
+
 ### Prerequisites
 
 - Node.js 18+ installed
